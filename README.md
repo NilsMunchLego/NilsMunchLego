@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dkNilMun, Game developer for the LEGO Group
+- 👋 Hi, I’m @NilsMunchLego, Senior Game developer for the LEGO Group
 - 👀 I’m interested in the psychology of play, of intrensic/extrensic reward systems and in the mix of physical and digital play.
 - 🌱 I’m currently learning robotics and arduino stuff, plus trick archery.
 - 💞️ I’m looking to collaborate on smaller game projects, game jams, game systems, game snacks, game whatever.
